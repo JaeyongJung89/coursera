@@ -1,0 +1,16 @@
+.venv/
+data/
+results/
+*.pt
+*.h5
+*.zip
+*.data
+*.gif
+salient*.jpg
+epoch*_salient*.jpg
+.ipynb_checkpoints/
+
+# sample images downloaded by the notebooks
+cat*.jpg
+dog*.jpg
+image.jpg

@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Editors
+.idea/
+.vscode/
+
+# Datasets and downloaded model weights: large and fully regenerable by the notebooks
+data/
+*.h5
+*.pt
+*.pth
+*.zip
+*.npy
+*.tfrecord*
